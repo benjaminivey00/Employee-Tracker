@@ -7,11 +7,11 @@ var connection = mysql.createConnection(
     {
         host: "localhost",
 
-        port: 3005,
+        port: 3030,
 
         user: "root",
 
-        password: "Bi9602689",
+        password: "Bi9602689!",
         database: "employee_DB"
     });
 connection.connect(function(err){

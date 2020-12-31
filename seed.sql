@@ -33,7 +33,7 @@ INSERT INTO department (name) VALUES ("Sales");
 
 INSERT INTO role (department_id, title, salary) VALUES (1, "Salesman", 150000.50);
 
-INSERT INTO employee (first_name, last_name, role_id) VALUES ("Arnold", "Robles",1);
+INSERT INTO employee (first_name, last_name, role_id) VALUES ("jim", "joe",1);
 
 
 SELECT * FROM department;
